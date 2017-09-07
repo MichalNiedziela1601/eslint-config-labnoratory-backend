@@ -1,0 +1,15 @@
+{
+  "name": "eslint-config-labnoratory-backend",
+  "version": "1.0.0",
+  "description": "eslint config for backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config"
+  ],
+  "author": "",
+  "license": "ISC"
+}
